@@ -5,3 +5,8 @@ def display_board(board)
  puts board
 end
 board = [" "," "," "," "," "," "," "," "," "]
+row(0) = "   |   |   "
+row(1) = "-----------"
+row(2) = "   |   |   "
+row(3) = "-----------"
+row(4) = "   |   |   "
