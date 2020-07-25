@@ -4,7 +4,7 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " " ]
 def display_board(board)
 end
 
-row1(board[1,2,3])
-row2(board[4,5,6])
-row3(board[7,8,9])
+puts row1(board[1,2,3])
+puts row2(board[4,5,6])
+puts row3(board[7,8,9])
 
